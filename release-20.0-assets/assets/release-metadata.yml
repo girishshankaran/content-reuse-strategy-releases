@@ -1,0 +1,5 @@
+release: "20.0"
+display_name: "Release 20.0"
+publish_path: "/20.0/"
+status: supported
+is_latest: true

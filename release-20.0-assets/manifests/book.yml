@@ -1,0 +1,6 @@
+book_id: router-admin-guide
+title: Router Administration Guide
+topics:
+  - DOCS-CONCEPT-001
+  - NET-SSH-TASK-001
+  - NET-VLAN-TASK-001

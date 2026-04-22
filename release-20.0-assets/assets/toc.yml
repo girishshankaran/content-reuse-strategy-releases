@@ -1,0 +1,10 @@
+sections:
+  - id: overview
+    title: Overview
+    topics: ["DOCS-CONCEPT-001"]
+  - id: access
+    title: Access
+    topics: ["NET-SSH-TASK-001"]
+  - id: vlan
+    title: VLAN
+    topics: ["NET-VLAN-TASK-001"]

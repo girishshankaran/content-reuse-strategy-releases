@@ -1,0 +1,5 @@
+release: "19.9"
+display_name: "Release 19.9"
+publish_path: "/19.9/"
+status: supported
+is_latest: false
